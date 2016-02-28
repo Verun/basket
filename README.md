@@ -7,3 +7,7 @@ Assumptions:
 BasketReader and ItemPriceProvider abstract away the fetching of a basket of items and the price of each item in that basket, respectively.
 
 Main is the entry point for the app. Only a few tests have been added for now.
+
+'mvn package' will build the jar file, and you can run it like so: java -jar /path/to/jarFile.jar
+
+
